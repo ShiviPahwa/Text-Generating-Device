@@ -1,0 +1,2 @@
+# Text-Generating-Device
+Text-Generating Device, is built with the primary objective of giving out outputs in a 6x7 matrix form containing 42 characters (all 26 letters in the alphabet + commonly used special characters). The device comprises of horizontal and vertical alignment of LEDs, first running in the horizontal direction and then, in the vertical direction. Assisted by the push button, the user first stops the LED at the desired output in the horizontal direction followed by the vertical direction. Hence,
